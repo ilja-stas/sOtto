@@ -1,0 +1,66 @@
+room1:
+    name: "Wohnzimmer"
+    climate_sensor:
+        company: "shelly"
+        device_id: "08b61fcf4da4"
+    roller:
+        left:
+            company: "shelly"
+            ip: "192.168.86.166"
+        right:
+            company: "shelly"
+            ip: "192.168.86.21"
+
+room2:
+    name: "Küche"
+    roller:
+        left:
+            company: "shelly"
+            ip: "192.168.86.20"
+
+
+room3:
+    name: "Flur"
+
+    
+room4:
+    name: "Gäste-WC"
+    
+room5:
+    name: "Hausflur"
+    
+room6:
+    name: "Marlene"
+    thermostat:
+        company: "bosch"
+        device_id: "hdm:ZigBee:30e8e40000d25c3b"
+        parentDeviceId: "roomClimateControl_hz_7"
+    
+room7:
+    name: "Ida"
+    thermostat:
+        company: "bosch"
+        device_id: "hdm:ZigBee:18fc2600000b38d1"
+        parentDeviceId: "roomClimateControl_hz_6"
+
+room8:
+    name: "Badezimmer"
+    thermostat:
+        company: "bosch"
+        device_id: "hdm:ZigBee:30e8e40000d289fa"
+        parentDeviceId: "roomClimateControl_hz_3"
+    
+room9:
+    name: "Arbeitszimmer"
+    thermostat:
+        company: "bosch"
+        id: "hdm:ZigBee:18fc2600000def3e"
+        parentDeviceId: "roomClimateControl_hz_5"
+
+room10:
+    name: "Schlafzimmer"
+    thermostat:
+        company: "bosch"
+        id: "hdm:ZigBee:30e8e40000d26de2"
+        parentDeviceId: "roomClimateControl_hz_4"
+    

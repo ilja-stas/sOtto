@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SOtto</string>
+
+
+    <string name="decrease_temperature">Decrease Temperature</string>
+    <string name="increase_temperature">Increase Temperature</string>
+
+    <string name="actual_temperature">Ist Temperatur</string>
+    <string name="humidity">Rel. Feuchtigkeit</string>
+</resources>

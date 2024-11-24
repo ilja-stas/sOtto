@@ -1,0 +1,45 @@
+room1:
+	name: Wohnzimmer
+	type: shelly_ht
+	
+room2:
+	name: Küche
+	type: Null
+	
+room3:
+	name: Flur
+	type: Null
+	
+room4:
+	name: Gäste-WC
+	type: Null
+	
+room5:
+	name: Hausflur
+	type: Null 
+	
+room6:
+	name: Marlene
+	type: bosch_thermo
+	id: "hdm:ZigBee:30e8e40000d25c3b"
+	
+room7:
+	name: "Ida"
+	type: "bosch_thermo"
+	id: "hdm:ZigBee:18fc2600000b38d1"
+
+room8:
+	name: "Badezimmer"
+	type: "bosch_thermo"
+	id: "hdm:ZigBee:30e8e40000d289fa"
+	
+room9:
+	name: "Arbeitszimmer"
+	type: "bosch_thermo"
+	id: "hdm:ZigBee:18fc2600000def3e"
+
+room10:
+	name: "Schlafzimmer"
+	type: "bosch_thermo"
+	id: "hdm:ZigBee:30e8e40000d26de2"
+	
